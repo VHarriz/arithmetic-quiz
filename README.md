@@ -1,0 +1,3 @@
+Code quiz Readme
+This is a code that I was trying to put togehter with the knowledge that I have. But I realized that I didnt have enough knowledge to put this together from scratch. So i will have to look up some resources on the internet that will help guide me through the process. I think I was on the right path but might have been trying to use methods that would make the code more efficient but it started to get a bit more difficult that I expected.
+The code quiz is made up of Javascript, CSS, and HTML.
